@@ -1,3 +1,4 @@
+/*quickSort algorithm write by lhn 2018/12/6 */
 #include<iostream>
 using namespace std;
 
