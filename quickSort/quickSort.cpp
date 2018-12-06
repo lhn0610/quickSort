@@ -1,4 +1,6 @@
-/*quickSort algorithm write by lhn 2018/12/6 */
+/*quickSort algorithm write by lhn 2018/12/6 
+**which time comlplexity is O(nlg(n)),and the worst condition is O(n2)
+*/
 #include<iostream>
 using namespace std;
 
